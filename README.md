@@ -17,13 +17,14 @@ Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters
  -[Download_here](https://microsoft.com/powerbi)
 
 
-  ### Data Cleaning/Preparation
+ ### Data Cleaning/Preparation
 
   In the initial data preparation phase, we performed the following tasks:
   1. Data loading and inspection.
   2. Handling missing values.
   3. Data cleaning and formatting.
 
+  
   ### Exploratory Data Analysis
 
   EDA involved exploring the Bike Commuters data to answer key questions, such as:
