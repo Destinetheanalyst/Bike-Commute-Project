@@ -11,9 +11,10 @@ Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters
 ### Tools
 
 - Excel - Data Cleaning
-- -[Download_here](https://microsoft.com)
+ -[Download_here](https://microsoft.com)
 - Excel - Data Analysis
-- PowerBi - Data visualization and Creating Reports[Download_here](https://microsoft.com/powerbi)
+- PowerBi - Data visualization and Creating Reports
+ -[Download_here](https://microsoft.com/powerbi)
 
 
   ### Data Cleaning/Preparation
