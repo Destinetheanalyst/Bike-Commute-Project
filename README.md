@@ -12,6 +12,7 @@
 - [Limitations](#limitations)
 
 ### Project Overview
+---
 
 This data analysis project aim to provide insights into the Bike usage analysis of a company over staffs. By analyzing various aspects of the analysis , we seek to identify trends, make data driven recommendations, and gain a deeper understanding of the of the company's performance.
 
@@ -19,10 +20,12 @@ This data analysis project aim to provide insights into the Bike usage analysis 
 
 
 ### Data Source
+---
 
 Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters.xlsx" file, containig detailed information about each staff in the company.
 
 ### Tools
+---
 
 - Excel - Data Cleaning
  -[Download_here](https://microsoft.com)
@@ -32,6 +35,7 @@ Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters
 
 
  ### Data Cleaning/Preparation
+ ---
 
   In the initial data preparation phase, we performed the following tasks:
   1. Data loading and inspection.
@@ -40,6 +44,7 @@ Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters
 
   
   ### Exploratory Data Analysis
+  ---
 
   EDA involved exploring the Bike Commuters data to answer key questions, such as:
 
@@ -51,6 +56,7 @@ Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters
   - Total number of bike commuters by commuter distance?
 
 ### Data Analysis
+---
 
 Include some functions used to analyze 
 ```Excel
@@ -62,6 +68,7 @@ Include some functions used to analyze
 ```
 
 ### Results/Findings
+---
 
 The analysis results are summarized as follows:
 1. The total number of commuters.
@@ -72,6 +79,7 @@ The analysis results are summarized as follows:
 6. The total number of commuters per commuter distance.
 
 ### Limitations
+---
 
 I had to remove all zero values from age column because they would affected the accuracy of my conclusions from the analysis.
 
