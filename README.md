@@ -1,10 +1,21 @@
 # Bike Commuters Analysis
 
+### Table of Contents
+
+-[Project Overview](#project-overview)
+-[Data Source](#data-source)
+-[Tools](#tools)
+-[Data Cleaning/Preparation](#data-cleaning/preparation)
+-[Exploratory Data Analysis](#exploratory-data-analysis)
+-[Data Analysis](#data-analysis)
+-[Results/Findings](#results/findings)
+-[Limitations](#limitations)
+
 ### Project Overview
 
 This data analysis project aim to provide insights into the Bike usage analysis of a company over staffs. By analyzing various aspects of the analysis , we seek to identify trends, make data driven recommendations, and gain a deeper understanding of the of the company's performance.
 
-### Data Sources
+### Data Source
 
 Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters.xlsx" file, containig detailed information about each staff in the company.
 
@@ -45,3 +56,19 @@ Include some functions used to analyze
 =COUNT(A2:A1001)
 
 =IF(L2>54,"Old Age",IF(L2>=31,"Middle Age",IF(L2<31,"Adolecent","Invalid")))
+```
+
+### Results/Findings
+
+The analysis results are summarized as follows:
+1. The total number of commuters.
+2. The total number of Male and Female commuters and their percentages.
+3. The Average of commuters.
+4. The total number of commuters per continent.
+5. The total number of commuters per Age range.
+6. The total number of commuters per commuter distance.
+
+### Limitations
+
+I had to remove all zero values from age column because they would affected the accuracy of my conclusions from the analysis.
+
