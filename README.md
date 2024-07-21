@@ -15,6 +15,9 @@
 
 This data analysis project aim to provide insights into the Bike usage analysis of a company over staffs. By analyzing various aspects of the analysis , we seek to identify trends, make data driven recommendations, and gain a deeper understanding of the of the company's performance.
 
+![Bike Sales](https://github.com/user-attachments/assets/684acab9-abc4-41fc-a53d-2e066cc1afc2)
+
+
 ### Data Source
 
 Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters.xlsx" file, containig detailed information about each staff in the company.
