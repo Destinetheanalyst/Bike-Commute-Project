@@ -38,4 +38,10 @@ Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters
 
 ### Data Analysis
 
-Include some functions used in excel to analyze 
+Include some functions used to analyze 
+```Excel
+=TRIM(F2:F1001)
+
+=COUNT(A2:A1001)
+
+=IF(L2>54,"Old Age",IF(L2>=31,"Middle Age",IF(L2<31,"Adolecent","Invalid")))
