@@ -11,6 +11,7 @@
 - [Results/Findings](#results/findings)
 - [Limitations](#limitations)
 
+
 ### Project Overview
 ---
 
@@ -19,10 +20,13 @@ This data analysis project aim to provide insights into the Bike usage analysis 
 ![Bike Sales](https://github.com/user-attachments/assets/684acab9-abc4-41fc-a53d-2e066cc1afc2)
 
 
+
 ### Data Source
 ---
 
 Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters.xlsx" file, containig detailed information about each staff in the company.
+
+
 
 ### Tools
 ---
@@ -34,6 +38,8 @@ Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters
  -[Download_here](https://microsoft.com/powerbi)
 
 
+
+
  ### Data Cleaning/Preparation
  ---
 
@@ -41,6 +47,8 @@ Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters
   1. Data loading and inspection.
   2. Handling missing values.
   3. Data cleaning and formatting.
+
+
 
   
   ### Exploratory Data Analysis
@@ -55,6 +63,8 @@ Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters
   - Total number of bike commuters by Continent?
   - Total number of bike commuters by commuter distance?
 
+
+
 ### Data Analysis
 ---
 
@@ -67,6 +77,8 @@ Include some functions used to analyze
 =IF(L2>54,"Old Age",IF(L2>=31,"Middle Age",IF(L2<31,"Adolecent","Invalid")))
 ```
 
+
+
 ### Results/Findings
 ---
 
@@ -77,6 +89,8 @@ The analysis results are summarized as follows:
 4. The total number of commuters per continent.
 5. The total number of commuters per Age range.
 6. The total number of commuters per commuter distance.
+
+
 
 ### Limitations
 ---
