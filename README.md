@@ -107,5 +107,5 @@ The analysis results are summarized as follows:
 ### Limitations
 ---
 
-I had to remove all zero values from age column because they would affected the accuracy of my conclusions from the analysis.
+I had to remove all zero values from age column because they would have affected the accuracy of my conclusions from the analysis.
 
