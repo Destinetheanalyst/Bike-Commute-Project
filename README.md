@@ -83,12 +83,24 @@ This include some functions used to analyze
 ---
 
 The analysis results are summarized as follows:
-1. The total number of commuters.
-2. The total number of Male and Female commuters and their percentages.
-3. The Average of commuters.
-4. The total number of commuters per continent.
-5. The total number of commuters per Age range.
-6. The total number of commuters per commuter distance.
+1. The total number of commuters is 1000.
+2. The total number off bike owners is 481, which makes up 48% of total commuters.
+3. There are 753 cars owners
+4. The total number of Male is 511, with 51%.
+5. The total number of Female is 489, with 49%.
+6. The Average Age of commuters is 44.
+7. The total number of commuters per continent.
+   - There are 508 bike commuters in North America,which makes of 50.8% of commuters.
+   - There are 300 bike commuters in Europe, which makes up 30% of commmuters.
+   - There are 192 bike commuters in Pacific, which makes up 19.2% of commuters.
+8. The total number of bike owners per Age range.
+  - The Middle age are the most bike owners. They have a total of 383 bikes.
+  - The Old age has a total of 59 bikes.
+  - The adolecent has a total of 39 bikes and they own the least amount of bikes.
+   
+9. The total number of bike owners per commuter distance.
+ - Commuter that travel 0-1 miles have the most bikes. They have a total of 200 bikes, while commuters that travels 10+ have the least numberof bikes. They have a total of 33 bikes
+    
 
 
 
