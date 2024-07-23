@@ -68,7 +68,7 @@ Bike Analysis: The primary dataset used for this analysis is the "Bike Commuters
 ### Data Analysis
 ---
 
-Include some functions used to analyze 
+This include some functions used to analyze 
 ```Excel
 =TRIM(F2:F1001)
 
