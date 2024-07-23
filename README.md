@@ -85,7 +85,7 @@ This include some functions used to analyze
 The analysis results are summarized as follows:
 1. The total number of commuters is 1000.
 2. The total number off bike owners is 481, which makes up 48% of total commuters.
-3. There are 753 cars owners
+3. There are 753 cars owners, with 1142 cars.
 4. The total number of Male is 511, with 51%.
 5. The total number of Female is 489, with 49%.
 6. The Average Age of commuters is 44.
