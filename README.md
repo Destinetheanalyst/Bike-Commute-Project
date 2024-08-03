@@ -8,7 +8,7 @@
 - [Data Cleaning/Preparation](#data-cleaning/preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
-- [Results/Findings](#results/findings)
+- [Results and Findings](#results-and-findings)
 - [Limitations](#limitations)
 
 
@@ -79,7 +79,7 @@ This include some functions used to analyze
 
 
 
-### Results/Findings
+### Results and Findings
 ---
 
 The analysis results are summarized as follows:
